@@ -13,8 +13,7 @@ BEE APP simboliza a eficiência e a organização — assim como as abelhas, o a
 
 ---
 
-## 💡 Funcionalidades Principais
-🧍 1. Dados do Titular
+## 🧍 1. Dados do Titular
 Tela inicial para o preenchimento dos dados do contribuinte, incluindo:
 - Nome, CPF e data de nascimento
 - Título de eleitor
