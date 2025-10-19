@@ -1,5 +1,4 @@
 # 🧾 Planilha de Controle para Declaração de Imposto de Renda — Excel
----
 
 ## 📊 Descrição do Projeto
 
@@ -84,5 +83,10 @@ Este projeto foi desenvolvido como parte do desafio da  [DIO](https://www.dio.me
 Desenvolvido por: Raiane Sá
 
 🌐 [LinkedIn](https://www.linkedin.com/in/raiane-s%C3%A1-165b6b193/)
+
+---
+
+## 🐝 Licença
+Este projeto é de uso educacional e pode ser utilizado como base para fins de estudo ou portfólio, desde que mantidos os devidos créditos.
 
 ---
