@@ -8,7 +8,7 @@ A ferramenta foi construída com foco em usabilidade, automação e design intui
 ---
 
 ## 🐝 Sobre o Nome
-BEE APP simboliza a eficiência e a organização — assim como as abelhas, o aplicativo busca otimizar o trabalho de coleta e registro de informações, tornando o processo fiscal mais simples e produtivo.
+**BEE APP** simboliza a eficiência e a organização — assim como as abelhas, o aplicativo busca otimizar o trabalho de coleta e registro de informações, tornando o processo fiscal mais simples e produtivo.
 
 ---
 
@@ -80,7 +80,7 @@ Este projeto foi desenvolvido como parte do desafio da  [DIO](https://www.dio.me
 ---
 
 ## 👩‍💻 Autoria
-Desenvolvido por: Raiane Sá
+Desenvolvido por: **Raiane Sá**
 
 🌐 [LinkedIn](https://www.linkedin.com/in/raiane-s%C3%A1-165b6b193/)
 
