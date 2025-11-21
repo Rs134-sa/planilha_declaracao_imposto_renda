@@ -1,3 +1,9 @@
+<p align="center">
+<img 
+    src="bee_app.jpg"
+    width="300"
+/>
+</p>
 # 🧾 Planilha de Controle para Declaração de Imposto de Renda — Excel
 
 ## 📊 Descrição do Projeto
