@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="bee_app.jpg"
+    src="bee_app2.jpg"
     width="300"
 />
 </p>
